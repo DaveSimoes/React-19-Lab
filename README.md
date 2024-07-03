@@ -3,7 +3,7 @@
 This is an environment for exploring new features in React 19, including experimental hooks and functionalities.
 It utilizes the experimental version of React and is designed exclusively for testing and learning purposes.
 
-<img src="public/screen.png " alt="React 19 Lab"/>
+<img src="public/screen.png " alt="React 19 Lab" />
 
 ## Getting Started
 
